@@ -1,0 +1,1 @@
+# naive-lottery-contract
