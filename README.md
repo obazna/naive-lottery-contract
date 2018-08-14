@@ -1,1 +1,1 @@
-# naive-lottery-contract
+# Naive Lottery Front-end
